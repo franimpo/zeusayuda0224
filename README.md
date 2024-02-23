@@ -1,6 +1,6 @@
 # zeusayuda0224
 
-Archivos modificados:
+Archivos modificados (dentro del tema zeusdocs):
 
 js > scripts-zeusdocs.js
 Se agrego un script para que cuando se abre una pagina o subpagina, el menu lateral se muestre desplegado en el contenedor de esa pagina.
